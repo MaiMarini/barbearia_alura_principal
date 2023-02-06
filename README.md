@@ -1,2 +1,2 @@
-# barbearia_alura_principal
-Projeto semana 01 - Programa Desenvolve 2023
+# barbearia_alura
+Projeto semana 02 - Programa Desenvolve 2023
